@@ -1,0 +1,14 @@
+nav{
+    background: #00C897;
+    padding: 10px;
+}
+.columna{
+    background: #FF7BA9;
+    color: #EEEDDE;
+    padding: 20px;/* margen del fondo interior */
+    width: 25%;
+    margin: 10px;
+}
+.padre{
+    display: flex; /* este el momento en que con el flex divido los parrafos en columna */
+}

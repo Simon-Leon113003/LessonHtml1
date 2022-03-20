@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    font-size: 50px;
+}
+#Unico{
+    color: red;
+    font-size: 50px;/* tamaño de la fuente */
+}
+.azul{
+    color: rgb(134, 129, 154);
+}
+.fondo{
+    background:#444;
+}
+.tamano{
+    font-size: 65px;
+}

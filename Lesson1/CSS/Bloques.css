@@ -1,0 +1,11 @@
+h1{
+    background : #019267 ;
+    display: inline-block; 
+    /* el inline-block convierte los elementos de  linea en bloques */
+}
+a{
+    background : red;
+    display: block;
+    /* el inline-block convierte loselementos de bloques en linea */
+    
+}

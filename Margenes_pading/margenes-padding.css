@@ -1,0 +1,15 @@
+/* el margin es un margen externo */
+h2 {
+  background: #65c18c;
+  /* margin-left: 100px; 
+    margin-bottom: 50px; */
+  /* margin:  100px; */
+  /* margin: 200px 100px; */
+  margin: 100px 100px 100px 500px; /* margenes o espacios de ambos lados arriba derecha abajo izquierda */
+  padding: 25px; /* sirve para dar tamaño a los margenes interiores */
+}
+/* el pading es un margen interno */
+p2 {
+  background: #ffd32d;
+  padding: 10px;
+}
